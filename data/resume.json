@@ -2,15 +2,15 @@
     "avatar": "/resume/data/1.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "周俊",
+        "name": "谭壮",
         "description": "岂能尽如人意，但求无愧我心",
-        "school": "中山大学",
-        "profession": "计算机科学与技术",
+        "school": "东北财经大学",
+        "profession": "金融（金融科技）",
         "sex": "男",
-        "education" : "本科",
-        "workage": "2012届毕业",
-        "phone": "15088888888",
-        "email": "tonjayin@gmail.com"
+        "education" : "硕士",
+        "workage": "2026届毕业",
+        "phone": "17652185838",
+        "email": "tz17652185838@163.com"
     },
     "social":[
         {
@@ -41,20 +41,14 @@
     ],
     "Awards": [
         {
-            "name": "中山大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
+            "name": "国家奖学金"
         },
         {
-            "name": "第X届XX杯全国软件专业人才设计与创业大赛C/C++本科B组广东赛区一等奖，全国决赛三等奖"
+            "name": "大学生统计建模大赛省级二等奖"
         },
         {
-            "name": "第X届全国大学生网络商务创新应用大赛全国总决赛主题赛单项一等奖"
+            "name": "综合优秀学生奖学金一等奖"
         },
-        {
-            "name": "201X百度校园助手大赛优秀开发奖"
-        },
-        {
-            "name": "201X华南XX杯广东省Java程序员竞赛三等奖"
-        }
     ],
     "socialExperiences": [
         {
